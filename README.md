@@ -1,7 +1,7 @@
 ## Hi i'm jean !!
 
 
-- 🔭 I am currently working on a NUT-UFMT project at POLITEC-MT
+- 🔭 I am currently working on a NUTI-UFMT project at POLITEC-MT
 - 🌱 I’m currently learning Java and C#
 - 🤔 I'm looking for help with web development, and I'm always willing to teach and learn new things.
 - 📫 How to reach me:

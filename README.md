@@ -14,9 +14,7 @@
 💬 Graduating in Computer Science, developer passionate about Java and C Sharp. I have an insatiable curiosity,
 I like to solve problems and work in a team, in addition, I am enthusiastic when it comes to exploring new technologies and development approaches.
 
-
-<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)  -->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanlsfortes)](https://github.com/anuraghazra/github-readme-stats)
+  [![Jean lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanlsfortes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">

@@ -1,6 +1,8 @@
 
 
 <h1>👋 &nbsp;Olá, eu sou o Jean, um desenvolvedor full stack apaixonado pela programação!</h1>
+<h2><a href="https://jeanlsfortes.github.io/blog-jean/">Meu site de apresentação</a></h2>
+
 💬 Graduating in Computer Science, developer passionate about Java and C Sharp. I have an insatiable curiosity,
 I like to solve problems and work in a team, in addition, I am enthusiastic when it comes to exploring new technologies and development approaches.
 <p/>
